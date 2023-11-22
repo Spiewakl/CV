@@ -1,3 +1,7 @@
+main {
+  width: 100%;
+}
+
 body {
   font-family: "Montserrat", sans-serif;
   background: #f5f7fa;
@@ -30,7 +34,8 @@ aside {
 .contacts-links {
   color: #fff;
   font-size: 14px;
-  line-height: 24px; /* 171.429% */
+  line-height: 24px;
+  text-decoration: none;
 }
 
 .bold {
@@ -70,7 +75,7 @@ main {
 }
 
 .main-desctiption {
-  width: 400px;
+  width: 700px;
   margin-bottom: 40px;
 }
 
